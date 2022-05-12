@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="reservation_app">Reservation App</string>
+    <string name="please_make_a_reservation">Please make a reservation!</string>
+    <string name="name">Name:</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="mobile_number">Mobile Number:</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="size_of_group">Size of Group:</string>
+    <string name="enter_size_of_group">Enter Size of Group</string>
+    <string name="date_of_visit">Date of Visit:</string>
+    <string name="time_of_visit">Time of Visit:</string>
+    <string name="area">Area:</string>
+    <string name="non_smoking">Non-Smoking</string>
+    <string name="smoking">Smoking</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+</resources>
